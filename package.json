@@ -1,0 +1,17 @@
+{
+  "name": "discord-ticket-bot",
+  "version": "1.0.0",
+  "description": "An advanced v14 ticket bot for Discord.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "c2rder",
+  "dependencies": {
+    "discord.js": "^14.18.0",
+    "quick.db": "^9.1.7"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "license": "ISC"
+}
